@@ -1,2 +1,2 @@
-sum 1=1
-sum n = (n-1) + n
+soma 1=1
+soma n = (n-1) + n
